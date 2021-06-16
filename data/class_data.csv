@@ -1,0 +1,69 @@
+S.No,College Roll No.,Univ. Roll No.,Student Name,DOB,City,Country,Marks
+1,1218001,1800165,Aakriti Luthra,01-01-1999,Amritsar,India,8.23
+2,1218002,1800166,Aanchal,02-02-1999,Amritsar,India,8.7
+3,1218003,1800167,Aanchal Mittal,15-10-2000,Amritsar,India,9.25
+4,1218004,1800168,Aarish Khan,04-04-1998,Jaipur,India,7.8
+5,1218006,1800171,Abhinav Kashyap,20-07-2001,Amritsar,India,7.8
+6,1218008,1800173,Abhishek Mahajan,05-05-2000,Amritsar,India,8
+7,1218009,1800174,Aditya Mehra,20-02-1999,Amritsar,India,8.3
+8,1218010,1800175,Aditya Sharma,12-03-2000,Amritsar,India,7.9
+9,1218011,1800176,Ajay Kumar,10-04-1999,Amritsar,India,7.3
+10,1218012,1800178,Amanatbir Kaur,14-11-1999,Amritsar,India,7.5
+11,1218013,1800180,Ameendeep Kaur Sandhu,23-05-1998,Amritsar,India,7.4
+12,1218014,1800181,Amisha Kumari,02-08-2000,Bihar,India,6.7
+13,1218015,1800182,Amit Yadav,03-09-1999,Amritsar,India,7.8
+14,1218016,1800184,Anchal,04-05-1999,TaranTaran,India,7.8
+15,1218018,1800186,Anjali Singh,06-07-2000,Bihar,India,8.1
+16,1218019,1800188,Ankit Kumar,02-02-1999,Ludhiana,India,8.2
+17,1218020,1800189,Ankit Kumar,15-10-2000,Bihar,India,6.7
+18,1218021,1800191,Anmol Sharma,04-04-1998,Amritsar,India,5.6
+19,1218022,1800192,Anshul Aggarwal,20-07-2001,Amritsar,India,8.1
+20,1218024,1800194,Arshdeep Kaur,05-05-2000,TaranTaran,India,7.1
+21,1218025,1800195,Arun Verma,20-02-1999,Jammu,India,6.5
+22,1218026,1800197,Avishek Kumar Singh,12-03-2000,Bihar,India,6.4
+23,1218027,1800198,Avneet Kaur,30-04-1999,Amritsar,India,6.7
+24,1218028,1800199,Ayush Gupta,14-11-1999,Amritsar,India,8.1
+25,1218029,1800200,Babish Thukral,23-05-1998,Batala,India,6.4
+26,1218030,1800201,Badal Dhiman,02-08-2000,Amritsar,India,6.8
+27,1218031,1800202,Baubi Singh,03-09-1999,Bihar,India,7.4
+28,1218147,1800204,Birendra Joshi,04-05-1999,Bihar,India,7.1
+29,1218034,1800206,Chandan Kumar,16-07-2000,Amritsar,India,6.3
+30,1218035,1800208,Chetan Anand,02-02-1999,Bihar,India,7.3
+31,1218036,1800210,Deepak Kumar,15-10-2000,Bihar,India,7.2
+32,1218037,1800211,Deepak Kumar Singh,02-02-1999,Bihar,India,6.1
+33,1218038,1800213,Deepak Vijayvargiya,15-10-2000,Bihar,India,6.3
+34,1218039,1800214,Dilip Kumar Singh,30-04-1998,Bihar,India,6.3
+35,1218040,1800215,Dimanhu Abhishek,20-07-2001,Ahmedabad,India,7.3
+36,1218041,1800216,Dipti Kumari,15-05-2000,Bihar,India,8
+37,1218042,1800217,Diwakar Chaubey,20-02-1999,Bihar,India,7
+38,1218043,1800219,Gagandeep Kaur,12-03-2000,Amritsar,India,8.3
+39,1218046,1800223,Gurleen Kaur,10-04-1999,Amritsar,India,6.5
+40,1218048,1800224,Gursewak Singh,23-11-1999,Amritsar,India,6.5
+41,1218047,1800225,Gursewak Singh,23-05-1998,Amritsar,India,6.3
+42,1218050,1800227,Harleen Singh,02-08-2000,Amritsar,India,6.5
+43,1218051,1800228,Harsh Kumar,03-09-1999,Amritsar,India,6.4
+44,1218052,1800229,Himanshu Gupta,04-05-1999,TaranTaran,India,7.4
+45,1218053,1800230,Isha Trehan,06-07-2000,Amritsar,India,6.7
+46,1218054,1800232,Jagbir Kaur,22-02-1999,Amritsar,India,7.5
+47,1218055,1800233,Jasminder Singh,15-10-2000,Amritsar,India,5.3
+48,1218056,1800234,Jatinderpal Singh,04-04-1998,Amritsar,India,6.8
+49,1218057,1800235,Jugraj Singh,08-02-1999,Amritsar,India,7.8
+50,1218058,1800238,Kamlesh Kumar Singh,15-10-2000,Bihar,India,8.3
+51,1218059,1800239,Karan Kumar,04-04-1998,Amritsar,India,8.4
+52,1218060,1800240,Kartik Chadha,20-07-2001,Amritsar,India,7.4
+53,1218063,1800245,Kunal Arora,05-05-2000,Amritsar,India,8.6
+54,1218065,1800248,Lavish Chawla,20-02-1999,Amritsar,India,7.4
+55,1218066,1800249,Lovepreet Singh,12-03-2000,Bihar,India,8.3
+56,1218067,1800250,Madhav Vijay,10-04-1999,Bihar,India,7.4
+57,1218068,1800251,Mani Jaswal,24-11-1999,Amritsar,India,6.4
+58,1218070,1800253,Manmeen Kaur,03-05-1998,Amritsar,India,7.3
+59,1218071,1800254,Manpreet Singh,02-08-2000,Amritsar,India,7.6
+60,1218072,1800255,Mansimran Singh,03-09-1999,Amritsar,India,6.5
+61,1218073,1800256,Mitesh Sah,04-05-1999,Bihar,India,7.3
+62,1218117,1800313,Sharanjit Kaur,16-07-2000,Amritsar,India,6.5
+63,1218124,1800320,Simar Singh Walia,02-02-1999,Amritsar,India,7.3
+64,1218159,1835298,Simranjit Singh,15-10-2000,Amritsar,India,7.3
+65,1218156,1900406,Jagneet Singh,04-04-1998,Jammu,India,6.6
+66,1218158,1900407,Jatin Julka,20-07-2001,Amritsar,India,7.1
+67,1218157,1900408,Mohit Sharma,05-05-2000,Amritsar,India,6.2
+68,1218155,1917791,Bhupen Ahuja,21-02-1999,Amritsar,India,6.4
